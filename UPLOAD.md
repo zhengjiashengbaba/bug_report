@@ -1,8 +1,4 @@
-# Gadget Works Online Ordering System  v1.0 has arbitrary file upload
-
 BUG_Author: zhengjiasheng
-
-Website source address:https://www.sourcecodester.com/php/13093/gadget-works-online-ordering-system-phpmysqli.html
 
 Vulnerability url: /philosophy/admin/products/controller.php?action=add
 
