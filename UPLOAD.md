@@ -2,6 +2,8 @@
 
 BUG_Author: zhengjiasheng
 
+Website source address:https://www.sourcecodester.com/php/13093/gadget-works-online-ordering-system-phpmysqli.html
+
 Vulnerability url: /philosophy/admin/products/controller.php?action=add
 
 post form-data parameter 'filename' exists arbitrary file upload
